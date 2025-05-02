@@ -1,6 +1,0 @@
-Radon Mod Manager Version 1.0 | Sonic '06 Mod Manager Version 3.43
-------------------------------------------------------------------
-Changes from Sonic '06 Mod Manager:
-
-- Replaced all logos with the Radon logo (except the app icon so far)
-- Replaced some networking stuff for Radon
