@@ -1,3 +1,11 @@
+_____________________________________
+Radon Mod Manager - Version 1.00
+
+► Made Merge = true when creating a new mod by default
+► Moved some servers to Radon's custom servers
+
+Sonic '06 Mod Manager - Version 3.43 (Without Radon)
+
 ► Fixed PlayStation 3 executable signing.
 
 Sonic '06 Mod Manager - Version 3.42
