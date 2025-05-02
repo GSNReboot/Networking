@@ -3,3 +3,4 @@ Radon Mod Manager - Version 1.00
 
 - Made Merge = true when creating a new mod by default
 - Moved some servers to Radon's custom servers
+- Replaced some logo artwork with custom ones made for Radon
