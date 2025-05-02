@@ -1,2 +1,2 @@
-► Initial Release of RadonMM.
-► Moved networking servers.
+- Initial Release of RadonMM.
+- Moved networking servers.
